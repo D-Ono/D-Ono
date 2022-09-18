@@ -1,6 +1,6 @@
 ### Olá, eu sou David Ono!
 
-Atualmente estou estudando Ciência da Computação na FCT-UNESP e com o desejo de me tornar um Desenvolvedor Front-End, usando JavaScript, TypeScript e React. Atualmente faço estágio no Laboratório de Testes de Software da Inova Prudente.
+Atualmente estou estudando Ciência da Computação na FCT-UNESP e com o desejo de me tornar um Excelente Desenvolvedor Front-End, usando JavaScript, TypeScript e React. Atualmente faço estágio na MB Labs, como desenvolvedor Front-End.
 
 
 <div>
